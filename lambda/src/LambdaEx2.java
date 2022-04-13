@@ -3,7 +3,7 @@ interface MyFunction2 {
     void myMethod(); // public abstract void myMethod();
 }
 
-public class LamdaEx2 {
+public class LambdaEx2 {
     public static void main(String[] args) {
         MyFunction2 f = () -> {}; // MyFUntion f = (MyFunction)(()->{}));
         Object obj = (MyFunction2)(() -> {}); // Object타입으로 형변환이 생략됨
