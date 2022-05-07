@@ -3,6 +3,7 @@ import java.util.stream.*;
 
 public class StreamEx3 {
     public static void main(String[] args) {
+
         Student3[] stuArr = {
                 new Student3("이자바", 3, 300),
                 new Student3("김자바", 1, 200),
