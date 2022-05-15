@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optional/optional.iml" filepath="$PROJECT_DIR$/optional/optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream/stream.iml" filepath="$PROJECT_DIR$/stream/stream.iml" />
     </modules>
   </component>
