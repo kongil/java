@@ -3,7 +3,7 @@ import java.util.stream.*;
 
 import static java.util.stream.Collectors.*;
 
-public class StremaEx6 {
+public class StreamEx6 {
     public static void main(String[] args) {
         Student6[] stuArr = {
                 new Student6("이자바", 3, 300),

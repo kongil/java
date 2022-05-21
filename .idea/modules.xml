@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/collector.iml" filepath="$PROJECT_DIR$/collector/collector.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
